@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "../sass_style/style.css",
+	"sources": [
+		"../sass_style/style.scss"
+	],
+	"sourcesContent": [
+		".title{\n  color: grey;\n    a {\n      color: red;\n    }\n}\n"
+	],
+	"mappings": ";AAAA,AAAA,MAAM,CAAA;EACJ,KAAK,EAAE,IAAK;CAIb;;;AALD,AAEI,MAFE,CAEF,CAAC,CAAC;EACA,KAAK,EAAE,GAAI;CACZ",
+	"names": []
+}
